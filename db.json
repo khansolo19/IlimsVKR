@@ -1,0 +1,119 @@
+{
+  "products": [
+    {
+      "name": "Медет ",
+      "surename": "Бейшенкулов ",
+      "middlename": "Таштанович",
+      "description": "",
+      "img": "http://nccim.kg/wp-content/uploads/2021/06/DSC_0584-370x245.jpg",
+      "type": "Клиническое отделение",
+      "experience": "",
+      "education": "",
+      "article": "",
+      "treatment_profile": "",
+      "price": 1000,
+      "rating":{
+        "thoroughness": 1,
+        "efficiency": 2,
+        "attitude": 3,
+        "informing": 4,
+        "average": 2.5
+      },
+      "recomend": null,
+      "id": 1
+    },
+    {
+      "name": "Сайра ",
+      "surename": "Рыскулова ",
+      "middlename": "Токтобековна",
+      "description": "",
+      "img": "http://nccim.kg/wp-content/uploads/2021/06/DSC_0269-scaled-e1623731447155-288x300.jpg",
+      "type": "Клиническое отделение",
+      "experience": "",
+      "education": "",
+      "article": "",
+      "treatment_profile": "",
+      "price": 1000,
+      "rating":{
+        "thoroughness": 1,
+        "efficiency": 2,
+        "attitude": 3,
+        "informing": 4,
+        "average":2.5
+      },
+      "recomend": null,
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "author": "admin@gmail.com",
+      "title": "zbervaesbjsnb sj;dfr",
+      "prodId": null,
+      "id": 1
+    },
+    {
+      "author": "admin@gmail.com",
+      "title": "ythdtydtgyhd6tyhr",
+      "prodId": null,
+      "id": 2
+    },
+    {
+      "title": "thdtrdtyu",
+      "author": "admin@gmail.com",
+      "prodId": null,
+      "id": 3
+    },
+    {
+      "author": "admin@gmail.com",
+      "title": "фуикпжукпгыо",
+      "prodId": null,
+      "id": 4
+    },
+    {
+      "author": "admin@gmail.com",
+      "title": "vhsfhrssjeb,",
+      "prodId": 5,
+      "id": 5
+    },
+    {
+      "author": "ilimbu@gmail.com",
+      "title": "апро",
+      "prodId": null,
+      "id": 6
+    },
+    {
+      "author": "admin@gmail.com",
+      "title": "rie",
+      "prodId": 2,
+      "id": 7
+    }
+  ],
+  "likes": [
+    {
+      "user": null,
+      "prodId": 4,
+      "id": 8
+    },
+    {
+      "user": null,
+      "prodId": 1,
+      "id": 9
+    },
+    {
+      "user": "ilimbu@gmail.com",
+      "prodId": 1,
+      "id": 11
+    },
+    {
+      "user": "chika@gmail.com",
+      "prodId": 1,
+      "id": 12
+    },
+    {
+      "user": null,
+      "prodId": 2,
+      "id": 13
+    }
+  ]
+}
