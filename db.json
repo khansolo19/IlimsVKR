@@ -12,12 +12,24 @@
       "article": "",
       "treatment_profile": "",
       "price": 1000,
-      "rating":{
-        "thoroughness": 1,
-        "efficiency": 2,
-        "attitude": 3,
-        "informing": 4,
-        "average": 2.5
+      "rating": {
+        "thoroughness": [
+          1,
+          5
+        ],
+        "efficiency": [
+          1,
+          5
+        ],
+        "attitude": [
+          1,
+          5
+        ],
+        "informing": [
+          1,
+          5
+        ],
+        "average": 3
       },
       "recomend": null,
       "id": 1
@@ -34,12 +46,24 @@
       "article": "",
       "treatment_profile": "",
       "price": 1000,
-      "rating":{
-        "thoroughness": 1,
-        "efficiency": 2,
-        "attitude": 3,
-        "informing": 4,
-        "average":2.5
+      "rating": {
+        "thoroughness": [
+          1,
+          3
+        ],
+        "efficiency": [
+          1,
+          3
+        ],
+        "attitude": [
+          1,
+          3
+        ],
+        "informing": [
+          1,
+          3
+        ],
+        "average": 2
       },
       "recomend": null,
       "id": 2

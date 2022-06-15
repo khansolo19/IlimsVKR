@@ -8,12 +8,10 @@ import { HunelProvider, HunelCreditCard } from "reactjs-credit-card";
 const hunel = new HunelCreditCard();
 
 ReactDOM.render(
-  <React.StrictMode>
     <BrowserRouter>
       <HunelProvider config={hunel}>
         <App />
       </HunelProvider>
-    </BrowserRouter>
-  </React.StrictMode>,
+    </BrowserRouter>,
   document.getElementById("root")
 );
