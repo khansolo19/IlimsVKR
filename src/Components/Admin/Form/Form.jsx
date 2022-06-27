@@ -24,10 +24,10 @@ const initValues = {
   treatment_profile: "",
   price: "",
   rating:{
-    thoroughness: 0,
-    efficiency: 0,
-    attitude: 0,
-    informing: 0,
+    thoroughness: [],
+    efficiency: [],
+    attitude: [],
+    informing: [],
     average:0
   },
   recomend: null,
